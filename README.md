@@ -3,7 +3,7 @@
 使用GitHub Pages功能公开的网页可以从[这里](https://elmas3.github.io/mao-seminar/)访问：
 https://elmas3.github.io/mao-seminar/
 
-什么嘛还不错嘛
+newBranch分支添加的话
 
 # 目录
 ```
